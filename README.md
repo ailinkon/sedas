@@ -146,7 +146,7 @@ SEDAS treats ethics as a first-class design requirement, not an afterthought:
 
 This was a team capstone project. Team members contributed 10 papers each to the compiled literature review, and collaborated on the overall system design.
 
-*My contribution (Ashraful Islam Linkon — Student ID 240135):*
+*My contribution (Ashraful Islam  — Student ID 240135):*
 - Coordinated the 10-paper literature segment on SOAR-based mitigation, behavioural analysis, and LLM-assisted phishing detection.
 - Contributed to the AI Detection Engine component design and threat model.
 - Authored the ethics, privacy, and Australian regulatory alignment sections.
